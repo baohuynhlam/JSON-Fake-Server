@@ -5,23 +5,23 @@
             "origin": "SGN",
             "destination": "IAH",
             "date": 1610596900
-        }
+        },
         "booker": {
             "name": "Oslo",
             "email": "oslo@gmail.com",
-            "phone": "123456789",
-        }
+            "phone": "123456789"
+        },
         "passengers": [
             {
                 "passengerId": "7823x",
                 "lastName": "Yuri",
                 "middleName": "",
-                "firstName: "Oslo",
+                "firstName": "Oslo",
                 "address": {
                     "addressText": "123 City Street",
                     "country": "Vietnam",
                     "province": "Ho Chi Minh City"
-                }
+                },
                 "email": "oslo@gmail.com",
                 "phone": "123456789",
                 "checkInStatus": false,
@@ -30,15 +30,15 @@
                 "seat": ""
             },
             {
-                passengerId": "2368k",
+                "passengerId": "2368k",
                 "lastName": "Omaiwa",
                 "middleName": "Mou",
-                "firstName: "Shindeiru",
+                "firstName": "Shindeiru",
                 "address": {
                     "addressText": "321 City Street",
                     "country": "Vietnam",
                     "province": "Ho Chi Minh City"
-                }
+                },
                 "email": "death@gmail.com",
                 "phone": "987654321",
                 "checkInStatus": false,
