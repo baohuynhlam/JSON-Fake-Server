@@ -1,11 +1,12 @@
 {
-    "bookingData": [
+    "bookingData": 
         {
-            "bookingId": "AA33FF",
+            "bookingCode": "VJ764",
             "flight": {
+                "flightCode": "VJ321",
                 "origin": "SGN",
                 "destination": "IAH",
-                "date": 1610596900
+                "time": 1610676000
             },
             "booker": {
                 "name": "Oslo",
@@ -48,8 +49,7 @@
                     "seat": ""
                 }
             ]
-        }
-    ],
+        },
     "flights": [
         {
             "flightCode": "VJ321",
